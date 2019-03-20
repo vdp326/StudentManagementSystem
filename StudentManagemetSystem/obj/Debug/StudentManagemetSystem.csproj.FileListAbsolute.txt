@@ -1,0 +1,7 @@
+C:\Users\vupha\Desktop\Software Guild\StudentManagemetSystem\StudentManagemetSystem\bin\Debug\StudentManagemetSystem.exe.config
+C:\Users\vupha\Desktop\Software Guild\StudentManagemetSystem\StudentManagemetSystem\bin\Debug\StudentManagemetSystem.exe
+C:\Users\vupha\Desktop\Software Guild\StudentManagemetSystem\StudentManagemetSystem\bin\Debug\StudentManagemetSystem.pdb
+C:\Users\vupha\Desktop\Software Guild\StudentManagemetSystem\StudentManagemetSystem\obj\Debug\StudentManagemetSystem.csprojAssemblyReference.cache
+C:\Users\vupha\Desktop\Software Guild\StudentManagemetSystem\StudentManagemetSystem\obj\Debug\StudentManagemetSystem.csproj.CoreCompileInputs.cache
+C:\Users\vupha\Desktop\Software Guild\StudentManagemetSystem\StudentManagemetSystem\obj\Debug\StudentManagemetSystem.exe
+C:\Users\vupha\Desktop\Software Guild\StudentManagemetSystem\StudentManagemetSystem\obj\Debug\StudentManagemetSystem.pdb
